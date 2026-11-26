@@ -4,7 +4,7 @@
 
 ## Links & Seeded Accounts
 - **Google Drive Folder:** <PASTE_GOOGLE_DRIVE_URL>
-- **Live Deployment URL:** <PASTE_RENDER_URL> (Render free tier; ~50s cold start if idle)
+- **Live Deployment URL:** https://ajaia-collab-docs-w4y5.onrender.com/ (Render free tier; ~50s cold start if idle)
 - **Walkthrough Video URL:** <PASTE_VIDEO_URL>
 - **Demo Accounts:** usama@ajaia.io, alex@ajaia.io, sara@ajaia.io
 

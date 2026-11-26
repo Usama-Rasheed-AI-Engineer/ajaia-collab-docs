@@ -3,7 +3,7 @@
 A full-stack collaborative document editor built with **FastAPI**, **SQLite**, and **Quill.js**.
 
 ## Live Deployment & Test Accounts
-- **Live URL:** <PASTE_RENDER_URL_HERE> *(Render free tier; cold start takes ~50s after 15 min idle)*
+- **Live URL:** https://ajaia-collab-docs-w4y5.onrender.com/ *(Render free tier; cold start takes ~50s after 15 min idle)*
 - **Walkthrough Video:** <PASTE_VIDEO_URL_HERE>
 - **Seeded Demo Accounts (Top-Right Switcher):**
   - usama@ajaia.io - Usama Rasheed (Product Engineer)
